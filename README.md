@@ -10,12 +10,13 @@ This keymap is derived from [Sunaku's keymap work](https://github.com/sunaku/glo
 
 ## Primary (Colemak) layer:
 
-![Primary layer](https://github.com/mkinsner-personal/glove80-keymap/assets/155597296/3d5fff6a-defb-4e70-95a6-5094dfe528b9)
+![Primary layer](https://github.com/mkinsner-personal/glove80-keymap/assets/155597296/e556854c-1805-48e5-be28-8ce2a86867db)
 
 ## Lower layer:
 
-![Screenshot from 2024-01-03 21-53-24](https://github.com/mkinsner-personal/glove80-keymap/assets/155597296/b9bdf329-ebd0-4e59-8437-7df3317e71c7)
+![Lower layer](https://github.com/mkinsner-personal/glove80-keymap/assets/155597296/c7639e27-7561-4c64-ae30-4c4b5c153ef1)
 
 ## Magic layer:
 
-![Screenshot from 2024-01-03 21-53-42](https://github.com/mkinsner-personal/glove80-keymap/assets/155597296/5d64a19d-1e58-48b7-b89c-4b6bdfa34e99)
+![Magic layer](https://github.com/mkinsner-personal/glove80-keymap/assets/155597296/d0ef8315-df89-4822-800b-7f3905ac7411)
+
