@@ -14,8 +14,9 @@ This keymap is derived from [Sunaku's keymap work](https://github.com/sunaku/glo
 
 ## Lower layer:
 
-![Lower layer]((https://github.com/mkinsner-personal/glove80-keymap/assets/155597296/30650023-8bba-4891-a376-4c6b9096f4d9)
+![Lower layer](https://github.com/mkinsner-personal/glove80-keymap/assets/155597296/4a87d88f-2735-4eb0-9cd1-4dc1347d175a)
 
 ## Magic layer:
 
 ![Magic layer](https://github.com/mkinsner-personal/glove80-keymap/assets/155597296/b28d9041-7175-42d9-830a-3b0c74e04e76)
+
