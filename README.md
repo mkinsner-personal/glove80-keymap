@@ -2,7 +2,7 @@
 
 I'm currently using a [MoErgo Glove80 keyboard](https://www.moergo.com/collections/glove80-keyboards) with the following custom keymap:
 
-https://my.glove80.com/#/layout/user/7da23dc4-f728-484a-aba4-a8e3d1835def
+https://my.glove80.com/#/layout/user/068ff055-7e81-4450-8a24-6eeae68d4512
 
 The primary layer is Colemak layout.
 
